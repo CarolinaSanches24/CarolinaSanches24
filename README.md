@@ -1,8 +1,9 @@
 ###  Olá, Sou Carol Sanches 👋
-* :round_pushpin: Localização Macapá - Amapá
-* :woman:Tenho 25 anos.
-* :computer: Desenvolvedora de Software
- 
+<ul>
+<li> :round_pushpin: Localização Macapá - Amapá</li>
+<li>  :woman:Tenho 25 anos.</li>
+<li> :computer: Desenvolvedora de Software</li>
+</ul>
 <img src="https://static.vecteezy.com/system/resources/previews/019/153/003/original/3d-minimal-programming-icon-coding-screen-web-development-concept-laptop-with-a-coding-screen-and-a-coding-icon-3d-illustration-png.png" width="30%" height="30%">
 Minhas Redes Sociais
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carol-sanches-878391185/)
