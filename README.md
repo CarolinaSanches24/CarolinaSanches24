@@ -1,5 +1,5 @@
 ###  Olá, Sou Carol Sanches 👋
-  <img src="https://static.vecteezy.com/system/resources/previews/019/153/003/original/3d-minimal-programming-icon-coding-screen-web-development-concept-laptop-with-a-coding-screen-and-a-coding-icon-3d-illustration-png.png" width="30%" height="30%" style="margin-right: 10px;">
+  <img src="https://static.vecteezy.com/system/resources/previews/019/153/003/original/3d-minimal-programming-icon-coding-screen-web-development-concept-laptop-with-a-coding-screen-and-a-coding-icon-3d-illustration-png.png" width="30%" height="30%" align="left">
   <ul>
     <li> :round_pushpin: Localização: Macapá - Amapá</li>
     <li> :woman: Idade: 25 anos.</li>
