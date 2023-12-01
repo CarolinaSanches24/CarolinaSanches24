@@ -13,8 +13,8 @@ Como entrar em contato comigo <br> <br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carolmosilva34@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/QKM33WTJHOH4G1)
  ### Formação Acadêmica
- * Pós graduanda de Engenharia de Software - Descomplica Faculdade Digital.
- * Desenvolvimento Back-end - Cubos Academy
+ * Pós graduanda de Engenharia de Software - Descomplica Faculdade Digital (Cursando)
+ * Desenvolvimento Back-end - Cubos Academy 
  * 👩‍💻 Graduada em Licenciatura em Informática - Instituto Federal de Ciência e Tecnologia do Amapá.
  * Técnica em Informática - Centro ensino Profissionalizante do Amapá
  ### Tecnologias que utilizo
@@ -40,7 +40,7 @@ Como entrar em contato comigo <br> <br>
 <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width="50px" height="50px" />
 <img src= "https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="50px" height="50px" />
 
-### STATUS DE PRODUTIVIDADE
+<br> <br>
     
 ![Carol GitHub stats](https://github-readme-stats.vercel.app/api?username=CarolinaSanches24&show_icons=true&theme=radical)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaSanches24&layout=compact)
 
