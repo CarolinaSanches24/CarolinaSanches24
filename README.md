@@ -1,5 +1,10 @@
 ###  Olá, Sou Carol Sanches 👋
 
+![Descrição da imagem]([https://caminho/para/sua/imagem.jpg](https://static.vecteezy.com/system/resources/previews/019/153/003/original/3d-minimal-programming-icon-coding-screen-web-development-concept-laptop-with-a-coding-screen-and-a-coding-icon-3d-illustration-png.png)) | Lista de itens
+--- | ---
+Texto alternativo da imagem | Item 1
+Outro texto alternativo | Item 2
+Mais texto alternativo | Item 3
 
   <img src="https://static.vecteezy.com/system/resources/previews/019/153/003/original/3d-minimal-programming-icon-coding-screen-web-development-concept-laptop-with-a-coding-screen-and-a-coding-icon-3d-illustration-png.png" width="30%" height="30%" style="margin-right: 10px;">
   <ul>
@@ -7,11 +12,7 @@
     <li> :woman: Idade: 25 anos.</li>
     <li> :computer: Profissão: Desenvolvedora de Software</li>
   </ul>
-![Descrição da imagem]([https://caminho/para/sua/imagem.jpg](https://static.vecteezy.com/system/resources/previews/019/153/003/original/3d-minimal-programming-icon-coding-screen-web-development-concept-laptop-with-a-coding-screen-and-a-coding-icon-3d-illustration-png.png)) | Lista de itens
---- | ---
-Texto alternativo da imagem | Item 1
-Outro texto alternativo | Item 2
-Mais texto alternativo | Item 3
+
 Minhas Redes Sociais
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carol-sanches-878391185/)
  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarolinaSanches24)
