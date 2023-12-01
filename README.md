@@ -13,6 +13,8 @@ Como entrar em contato comigo <br> <br>
  
  ### Tecnologias que utilizo
  <hr>
+ Que domino:
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 ![Carol GitHub stats](https://github-readme-stats.vercel.app/api?username=CarolinaSanches24&show_icons=true&theme=radical)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaSanches24&layout=compact)
 
 
