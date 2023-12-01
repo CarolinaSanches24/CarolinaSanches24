@@ -5,7 +5,7 @@
     <li> :woman: Idade: 25 anos.</li>
     <li> :computer: Profissão: Desenvolvedora de Software</li>
     <li> 🎯 :dart: Objetivo: Me tornar Desenvolvedora FullStack</li>
-    ###  ❤️Amo aprender novas tecnologias e aplicar em meus projetos.
+    
   </ul>
 
 Como entrar em contato comigo <br> <br>
