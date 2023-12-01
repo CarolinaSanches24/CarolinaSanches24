@@ -5,13 +5,7 @@
     <li> :woman: Idade: 25 anos.</li>
     <li> :computer: Profissão: Desenvolvedora de Software</li>
   </ul>
-<br><br><br>
-
-
-
-
-
-
+<br><br><br><br><br>
 
 
 
