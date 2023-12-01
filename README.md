@@ -30,7 +30,7 @@ Como entrar em contato comigo <br> <br>
 <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"  width="50px" height="50px" />
     <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png"  width="50px" height="50px" />
     <br><br>
-    Estou aprendendo:
+    Estou aprendendo: <br><br>
 <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width="50px" height="50px" />
 <img src= "https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="50px" height="50px" />
 
