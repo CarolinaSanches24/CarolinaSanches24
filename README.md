@@ -4,7 +4,7 @@
     <li> :round_pushpin: Localização: Macapá - Amapá</li>
     <li> :woman: Idade: 25 anos.</li>
     <li> :computer: Profissão: Desenvolvedora de Software</li>
-    <li> 🎯 :dart: Objetivo: Me tornar Desenvolvedora FullStack</li>
+    <li> 🎯Objetivo: Me tornar Desenvolvedora FullStack</li>
     
   </ul>
 
