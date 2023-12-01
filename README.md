@@ -1,6 +1,6 @@
 ###  Olá, Sou Carol Sanches 👋
-
-Minhas Redes Sociais
+* :round_pushpin: Localização Macapá - Amapá
+<p>Minhas Redes Sociais</p>
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carol-sanches-878391185/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarolinaSanches24)
 <img src="https://static.vecteezy.com/system/resources/previews/019/153/003/original/3d-minimal-programming-icon-coding-screen-web-development-concept-laptop-with-a-coding-screen-and-a-coding-icon-3d-illustration-png.png" width="30%" height="30%">
