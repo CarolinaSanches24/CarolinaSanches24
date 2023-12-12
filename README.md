@@ -39,7 +39,7 @@ Como entrar em contato comigo <br> <br>
     Estou aprendendo: <br><br>
 <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width="50px" height="50px" />
 <img src= "https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="50px" height="50px" />
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="50px" height="50px" />
 
 <br> <br>
     
