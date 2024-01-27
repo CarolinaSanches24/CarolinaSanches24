@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4B0082&size=40&center=true&vCenter=true&width=1000&lines=Bem+vindos!+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=40&center=true&vCenter=true&width=1000&lines=Bem+vindos!+Welcome!)](https://git.io/typing-svg)
 
 ###  Olá, Sou Carol Sanches 👋
   <img src="https://static.vecteezy.com/system/resources/previews/019/153/003/original/3d-minimal-programming-icon-coding-screen-web-development-concept-laptop-with-a-coding-screen-and-a-coding-icon-3d-illustration-png.png" width="30%" height="30%" align="right">
