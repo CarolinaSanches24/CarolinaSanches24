@@ -46,21 +46,14 @@ Como entrar em contato comigo <br> <br>
 
 <br> <br>
 
-## 📊 /> 
+## 📊 Produção no GitHub 
     
 ![Carol GitHub stats](https://github-readme-stats.vercel.app/api?username=CarolinaSanches24&show_icons=true&theme=radical)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaSanches24&layout=compact)
 
 </div>
 
 
-  <div align="left">
-<img src="https://raw.githubusercontent.com/nahug07/nahug07/output/snake.svg" alt="Snake animation" />
-<br/>
-<br/>
-<br/>
-
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarolinaSanches24&theme=darcula) | 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=dracula) | 
 |--------------------------------------------------------------------------------------------------------------|
 
 </div> 
