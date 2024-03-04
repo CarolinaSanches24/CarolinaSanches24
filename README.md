@@ -63,9 +63,4 @@ Como entrar em contato comigo <br> <br>
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarolinaSanches24&theme=darcula) | 
 |--------------------------------------------------------------------------------------------------------------|
 
-
-
-|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CarolinaSanches24&theme=darcula&utcOffset=-3) | 
-|--------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
 </div> 
