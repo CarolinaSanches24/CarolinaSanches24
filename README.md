@@ -45,7 +45,27 @@ Como entrar em contato comigo <br> <br>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="50px" height="50px" />
 
 <br> <br>
+
+## 📊 /> 
     
 ![Carol GitHub stats](https://github-readme-stats.vercel.app/api?username=CarolinaSanches24&show_icons=true&theme=radical)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaSanches24&layout=compact)
 
 </div>
+
+
+  <div align="left">
+<img src="https://raw.githubusercontent.com/nahug07/nahug07/output/snake.svg" alt="Snake animation" />
+<br/>
+<br/>
+<br/>
+
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahug07&theme=darcula) | 
+|--------------------------------------------------------------------------------------------------------------|
+
+
+
+|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nahug07&theme=darcula&utcOffset=-3) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahug07&theme=darcula)
+|--------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+</div> 
