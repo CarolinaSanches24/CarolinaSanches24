@@ -60,12 +60,12 @@ Como entrar em contato comigo <br> <br>
 <br/>
 
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahug07&theme=darcula) | 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarolinaSanches24&theme=darcula) | 
 |--------------------------------------------------------------------------------------------------------------|
 
 
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nahug07&theme=darcula&utcOffset=-3) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahug07&theme=darcula)
+|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CarolinaSanches24&theme=darcula&utcOffset=-3) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarolinaSanches24&theme=darcula)
 |--------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 </div> 
