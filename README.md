@@ -48,7 +48,6 @@ Como entrar em contato comigo <br> <br>
 
 ## 📊 Produção no GitHub 
     
-![Carol GitHub stats](https://github-readme-stats.vercel.app/api?username=CarolinaSanches24&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaSanches24&layout=compact)
 
 </div>
 
