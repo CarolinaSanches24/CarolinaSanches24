@@ -50,9 +50,10 @@ Como entrar em contato comigo <br> <br>
     
 
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaSanches24)](https://github.com/anuraghazra/github-readme-stats)
+
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarolinaSanches24&theme=dracula) | 
 |--------------------------------------------------------------------------------------------------------------|
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CarolinaSanches24&theme=dracula)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarolinaSanches24&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaSanches24&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div> 
