@@ -6,7 +6,7 @@
   <ul style="margin-top: 50px">
     <li> :round_pushpin: Localização: Macapá - Amapá</li>
     <li> :woman: Idade: 25 anos.</li>
-    <li> :computer: Profissão: Desenvolvedora de Software</li>
+    <li> :computer: Profissão: Estudante de programação</li>
     <li> 🎯Objetivo: Me tornar Desenvolvedora FullStack</li>
     
   </ul>
