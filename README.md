@@ -41,7 +41,6 @@ Como entrar em contato comigo <br> <br>
     <br><br>
     Estou aprendendo: <br><br>
 <img src= "https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="50px" height="50px" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="50px" height="50px" />
 
 <br> <br>
 
