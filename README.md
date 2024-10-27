@@ -41,7 +41,7 @@ Como entrar em contato comigo <br> <br>
     <br><br>
     Estou aprendendo: <br><br>
 <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="50px" height="50px" />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50px" height="50px" />
 
           
 
